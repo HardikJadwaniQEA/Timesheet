@@ -1,0 +1,15 @@
+15:56:05.281 [main] INFO  TestCases.TC001_beCognizant - ***** closing the browser *****
+15:56:06.855 [main] INFO  TestBase.baseClass - closing the browser
+17:39:41.131 [main] INFO  TestCases.TC001_beCognizant - ***** starting TC001_beCognizant *****
+17:39:42.951 [main] INFO  TestCases.TC001_beCognizant - clicked on profile
+17:39:43.999 [main] INFO  TestCases.TC001_beCognizant - verified the account
+17:40:23.241 [main] INFO  TestCases.TC001_beCognizant - opening the OneCognizant
+17:40:43.406 [main] INFO  TestCases.TC001_beCognizant - handled the OneCognizant window
+17:40:44.559 [main] INFO  TestCases.TC001_beCognizant - Navigated to OneCognizant
+17:40:45.570 [main] INFO  TestCases.TC001_beCognizant - clicked on search Icon
+17:40:47.594 [main] INFO  TestCases.TC001_beCognizant - input timesheet in search bar
+17:40:59.269 [main] INFO  TestCases.TC001_beCognizant - handled the timesheet window
+17:40:59.282 [main] INFO  TestCases.TC001_beCognizant - Navigated to timesheet
+17:41:00.131 [main] INFO  TestCases.TC001_beCognizant - validating the header
+17:41:04.777 [main] INFO  TestCases.TC001_beCognizant - three weeks of timesheet
+17:41:38.300 [main] INFO  TestBase.baseClass - closing the browser
